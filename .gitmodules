@@ -1,0 +1,3 @@
+[submodule "PubTabNet"]
+	path = PubTabNet
+	url = https://github.com/ibm-aur-nlp/PubTabNet.git
